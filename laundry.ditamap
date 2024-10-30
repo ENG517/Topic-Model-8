@@ -2,9 +2,20 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="laundry_map">
   <title>Laundry as an NC State Student</title>
-  <topicref href="" format="ditamap">
-    <topicmeta>
-      <navtitle></navtitle>
+  <topicref type="task" href="tasks/t_how_to_remove_stains.dita"
+  navtitle="How to remove stains?"/>
+  <topicref type="concept" href="concepts/c_importance_of_sorting_clothes.dita"
+  navtitle="Why is it important to sort clothes?"/>
+  <topicref type="concept" href="concepts/c_saving_money_doing_laundry_at_home.dita"
+  navtitle="How can I save money doing laundry at home?"/>
+
     </topicmeta>
   </topicref>
 </map>
+
+1. t_how_to_remove_stains
+   1. c_importance_of_sorting_clothes
+   2. c_saving_money_doing_laundry
+   3. r_laundry_icons_wash
+   4. r_laundry_icons_dry
+   5. r_fabric_types
